@@ -1,0 +1,28 @@
+For maps in Ionic
+
+1)Generate KEy
+2) 
+$> ionic cordova plugin add cordova-plugin-googlemaps \
+  --variable API_KEY_FOR_ANDROID="(API_KEY_FOR_ANDROID)" \
+  --variable API_KEY_FOR_IOS="(API_KEY_FOR_IOS)"
+
+$> npm install --save @ionic-native/core@latest @ionic-native/google-maps@latest
+
+run this two commands & @beta as ionic4 is yet bita version
+
+
+3) Get android permission using cordova
+
+4)use this link & presentation given in ppt
+https://github.com/ionic-team/ionic-native-google-maps/blob/master/documents/README.md
+
+5) code for blue icons which are selected on route of maps
+
+6) polyline on selected points
+
+
+
+
+ionic cordova plugin add cordova-plugin-googlemaps \
+  --variable API_KEY_FOR_ANDROID="AIzaSyBNQVQPeg0gARKCWhsMpiXKedFvj5XdQX8" \
+  --variable API_KEY_FOR_IOS="AIzaSyBNQVQPeg0gARKCWhsMpiXKedFvj5XdQX8"
